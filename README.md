@@ -1,2 +1,1 @@
-# .github
 # radiomics_nsclc
